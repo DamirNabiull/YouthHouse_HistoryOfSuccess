@@ -1,0 +1,57 @@
+﻿{
+  "timer": 5,
+  "pages": [
+    {
+      "idLeft": 0,
+      "idRight": 1
+    },
+    {
+      "idLeft": 2,
+      "idRight": 3
+    },
+    {
+      "idLeft": 4,
+      "idRight": 5
+    },
+    {
+      "idLeft": 6,
+      "idRight": 7
+    },
+    {
+      "idLeft": 8,
+      "idRight": 9
+    },
+    {
+      "idLeft": 10,
+      "idRight": 11
+    },
+    {
+      "idLeft": 12,
+      "idRight": 13
+    },
+    {
+      "idLeft": 14,
+      "idRight": 15
+    },
+    {
+      "idLeft": 16,
+      "idRight": 17
+    },
+    {
+      "idLeft": 18,
+      "idRight": 19
+    },
+    {
+      "idLeft": 20,
+      "idRight": 21
+    },
+    {
+      "idLeft": 22,
+      "idRight": 23
+    },
+    {
+      "idLeft": 24,
+      "idRight": 25
+    }
+  ]
+}
